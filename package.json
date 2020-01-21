@@ -1,7 +1,7 @@
 {
   "name": "demo20200120",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Changed for Carlos Gonzalez",
   "main": "index.js",
   "scripts": {
     "di-hola": "echo 'HOLA MUNDO'",
